@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flowers", "Flowers\Flowers.csproj", "{C5CA8196-1C54-494B-AF15-552385284166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spirograph", "Spirograph\Spirograph.csproj", "{349DE3B7-E332-46A5-963B-45A8D8B383DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5CA8196-1C54-494B-AF15-552385284166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CA8196-1C54-494B-AF15-552385284166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CA8196-1C54-494B-AF15-552385284166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CA8196-1C54-494B-AF15-552385284166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{349DE3B7-E332-46A5-963B-45A8D8B383DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349DE3B7-E332-46A5-963B-45A8D8B383DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349DE3B7-E332-46A5-963B-45A8D8B383DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349DE3B7-E332-46A5-963B-45A8D8B383DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C488A4F8-9871-4452-9245-849EF3577662}
+	EndGlobalSection
+EndGlobal
